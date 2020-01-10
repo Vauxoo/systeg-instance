@@ -1,0 +1,8 @@
+[submodule "instance"]
+	path = instance
+	url = git@git.vauxoo.com:systeg/instance.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 12.0
